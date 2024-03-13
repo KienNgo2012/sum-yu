@@ -1,0 +1,20 @@
+{
+  "name": "sum-yu",
+  "version": "1.0.0",
+  "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KienNgo2012/sum-yu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KienNgo2012/sum-yu/issues"
+  },
+  "homepage": "https://github.com/KienNgo2012/sum-yu#readme"
+}
